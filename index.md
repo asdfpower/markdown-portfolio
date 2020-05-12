@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Image of Yaktocat]
+[Image of Yaktocat]
 
 <br>
 
